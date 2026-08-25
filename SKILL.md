@@ -85,7 +85,7 @@ Visited so far: United States
 
 | Country                                        | Noun                                   | Verb                         | Adjective                                 |
 | ---------------------------------------------- | -------------------------------------- | ---------------------------- | ----------------------------------------- |
-| Botswana, France, Norway, Argentina, Greenland | frog, punch bowl, leaf, bicycle, stone | jump, sing, fly, fear, snore | giddy, languid, fierce, ebullient, yellow |
+| Botswana, France, Norway, Argentina, Greenland, Lesotho | frog, punch bowl, leaf, bicycle, stone, peach | jump, sing, fly, fear, snore, grovel | giddy, languid, fierce, ebullient, yellow, wretched |
 
 3. Search For News That Includes the Chosen Words
 
